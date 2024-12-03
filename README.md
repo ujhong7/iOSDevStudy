@@ -97,7 +97,7 @@
    - 옵셔널 체이닝의 동작 원리는 무엇이며, 어떻게 사용하나요?
    - 암시적 언래핑 옵셔널(Implicitly Unwrapped Optional)은 어떤 경우에 사용해야 하나요?
 
-2. **iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.**
+2. [**iOS 앱의 생명주기(App Life Cycle)에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/17)
    - 앱의 각 상태(`Not Running`, `Inactive`, `Active`, `Background`, `Suspended`)에서 가능한 작업은 무엇인가요?
    - 상태 변화에 따라 호출되는 `AppDelegate` 또는 `SceneDelegate` 메서드는 무엇인가요?
    - 백그라운드에서 작업을 완료하기 위한 방법은 어떤 것이 있나요?
