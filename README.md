@@ -125,7 +125,7 @@
    - 중단점(Breakpoint)의 종류와 활용 방법을 설명해주세요.
    - LLDB 콘솔에서 유용한 명령어는 어떤 것이 있나요?
 
-8. [**iOS 앱에서 데이터를 저장하는 방법에는 어떤 것들이 있나요?**]()
+8. [**iOS 앱에서 데이터를 저장하는 방법에는 어떤 것들이 있나요?**](https://github.com/ujhong7/iOSDevStudy/issues/22)
    - `UserDefaults`의 사용 시 주의할 점은 무엇인가요?
    - Keychain은 어떤 데이터를 저장하기에 적합한가요?
    - Core Data와 SQLite의 차이점은 무엇이며, 각각 언제 사용하면 좋나요?
