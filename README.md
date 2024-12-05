@@ -130,7 +130,7 @@
    - Keychain은 어떤 데이터를 저장하기에 적합한가요?
    - Core Data와 SQLite의 차이점은 무엇이며, 각각 언제 사용하면 좋나요?
 
-9. [**Swift에서 프로토콜(Protocol)이란 무엇이며, 어떻게 활용하나요?**]()
+9. [**Swift에서 프로토콜(Protocol)이란 무엇이며, 어떻게 활용하나요?**](https://github.com/ujhong7/iOSDevStudy/issues/23)
    - 프로토콜의 요구사항은 무엇인가요?
    - 프로토콜 확장(Protocol Extension)을 사용하는 이유는 무엇인가요?
    - 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)의 장점은 무엇인가요?
