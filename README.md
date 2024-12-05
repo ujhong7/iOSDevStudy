@@ -107,7 +107,7 @@
    - Intrinsic Content Size란 무엇이며, 어떻게 활용되나요?
    - Ambiguous Layout과 Unsatisfiable Constraints는 무엇이며, 어떻게 해결하나요?
 
-4. [**Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?**]()
+4. [**Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?**](https://github.com/ujhong7/iOSDevStudy/issues/19)
    - 클로저의 캡처(Capture) 기능은 무엇인가요?
    - @escaping 클로저와 non-escaping 클로저의 차이점은 무엇인가요?
    - 트레일링 클로저(Trailing Closure) 문법은 어떤 경우에 유용한가요?
