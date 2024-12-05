@@ -112,7 +112,7 @@
    - @escaping 클로저와 non-escaping 클로저의 차이점은 무엇인가요?
    - 트레일링 클로저(Trailing Closure) 문법은 어떤 경우에 유용한가요?
 
-5. [**iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?**]()
+5. [**iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?**](https://github.com/ujhong7/iOSDevStudy/issues/20)
    - Delegate 패턴과 Notification, KVO의 차이점은 무엇인가요?
    - 프로토콜을 활용한 Delegate 패턴 구현 방법을 설명해주세요.
 
