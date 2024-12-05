@@ -121,7 +121,7 @@
    - 구조체(Struct)와 클래스(Class)의 사용 시기는 어떻게 구분하나요?
    - 열거형(Enum)의 원시값(Raw Value)과 연관값(Associated Value)은 무엇인가요?
 
-7. [**Xcode에서 디버깅 시 자주 사용하는 기능은 무엇인가요?**]()
+7. [**Xcode에서 디버깅 시 자주 사용하는 기능은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/24)
    - 중단점(Breakpoint)의 종류와 활용 방법을 설명해주세요.
    - LLDB 콘솔에서 유용한 명령어는 어떤 것이 있나요?
 
