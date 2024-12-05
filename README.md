@@ -102,35 +102,35 @@
    - 상태 변화에 따라 호출되는 `AppDelegate` 또는 `SceneDelegate` 메서드는 무엇인가요?
    - 백그라운드에서 작업을 완료하기 위한 방법은 어떤 것이 있나요?
 
-3. **Auto Layout을 사용하는 이유와 장점은 무엇인가요?**
+3. [**Auto Layout을 사용하는 이유와 장점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/18)
    - 제약 조건(Constraints)의 우선순위(Priority)는 어떻게 동작하나요?
    - Intrinsic Content Size란 무엇이며, 어떻게 활용되나요?
    - Ambiguous Layout과 Unsatisfiable Constraints는 무엇이며, 어떻게 해결하나요?
 
-4. **Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?**
+4. [**Swift에서 클로저(Closure)란 무엇이며, 어떻게 사용하나요?**]()
    - 클로저의 캡처(Capture) 기능은 무엇인가요?
    - @escaping 클로저와 non-escaping 클로저의 차이점은 무엇인가요?
    - 트레일링 클로저(Trailing Closure) 문법은 어떤 경우에 유용한가요?
 
-5. **iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?**
+5. [**iOS에서 Delegate 패턴은 무엇이며, 어떤 상황에서 사용되나요?**]()
    - Delegate 패턴과 Notification, KVO의 차이점은 무엇인가요?
    - 프로토콜을 활용한 Delegate 패턴 구현 방법을 설명해주세요.
 
-6. **Swift의 기본 데이터 타입과 컬렉션(Collection) 타입에는 어떤 것들이 있나요?**
+6. [**Swift의 기본 데이터 타입과 컬렉션(Collection) 타입에는 어떤 것들이 있나요?**]()
    - 값 타입(Value Type)과 참조 타입(Reference Type)의 차이점은 무엇인가요?
    - 구조체(Struct)와 클래스(Class)의 사용 시기는 어떻게 구분하나요?
    - 열거형(Enum)의 원시값(Raw Value)과 연관값(Associated Value)은 무엇인가요?
 
-7. **Xcode에서 디버깅 시 자주 사용하는 기능은 무엇인가요?**
+7. [**Xcode에서 디버깅 시 자주 사용하는 기능은 무엇인가요?**]()
    - 중단점(Breakpoint)의 종류와 활용 방법을 설명해주세요.
    - LLDB 콘솔에서 유용한 명령어는 어떤 것이 있나요?
 
-8. **iOS 앱에서 데이터를 저장하는 방법에는 어떤 것들이 있나요?**
+8. [**iOS 앱에서 데이터를 저장하는 방법에는 어떤 것들이 있나요?**]()
    - `UserDefaults`의 사용 시 주의할 점은 무엇인가요?
    - Keychain은 어떤 데이터를 저장하기에 적합한가요?
    - Core Data와 SQLite의 차이점은 무엇이며, 각각 언제 사용하면 좋나요?
 
-9. **Swift에서 프로토콜(Protocol)이란 무엇이며, 어떻게 활용하나요?**
+9. [**Swift에서 프로토콜(Protocol)이란 무엇이며, 어떻게 활용하나요?**]()
    - 프로토콜의 요구사항은 무엇인가요?
    - 프로토콜 확장(Protocol Extension)을 사용하는 이유는 무엇인가요?
    - 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)의 장점은 무엇인가요?
