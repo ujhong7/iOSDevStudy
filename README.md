@@ -149,7 +149,7 @@
     - 각 도구의 사용 방법과 장단점을 설명해주세요.
     - 의존성 관리를 통해 얻을 수 있는 이점은 무엇인가요?
 
-13. [**Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.**]()
+13. [**Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/27)
     - `map`과 `flatMap`의 차이점은 무엇인가요?
     - `filter`, `reduce` 함수는 어떤 경우에 사용하나요?
     - `compactMap`은 어떤 역할을 하나요?
