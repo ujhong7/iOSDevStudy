@@ -135,36 +135,36 @@
    - 프로토콜 확장(Protocol Extension)을 사용하는 이유는 무엇인가요?
    - 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)의 장점은 무엇인가요?
 
-10. **Swift의 접근 제어자(Access Control Levels)에 대해 설명해주세요.**
+10. [**Swift의 접근 제어자(Access Control Levels)에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/25)
     - `open`과 `public`의 차이점은 무엇인가요?
     - `internal`, `fileprivate`, `private`의 사용 시기는 어떻게 결정하나요?
     - 접근 제어자를 사용하는 이유는 무엇인가요?
 
-11. **iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?**
+11. [**iOS 앱에서 네트워크 통신을 하는 방법에는 어떤 것들이 있나요?**]()
     - `URLSession`의 기본 사용 방법을 설명해주세요.
     - 네트워크 요청 시 에러 처리는 어떻게 하나요?
     - 서드파티 라이브러리(예: Alamofire)를 사용하는 이유는 무엇인가요?
 
-12. **의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?**
+12. [**의존성 관리 도구(CocoaPods, Carthage, Swift Package Manager)의 종류와 차이점은 무엇인가요?**]()
     - 각 도구의 사용 방법과 장단점을 설명해주세요.
     - 의존성 관리를 통해 얻을 수 있는 이점은 무엇인가요?
 
-13. **Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.**
+13. [**Swift의 고차 함수(Higher-Order Functions)에 대해 설명해주세요.**]()
     - `map`과 `flatMap`의 차이점은 무엇인가요?
     - `filter`, `reduce` 함수는 어떤 경우에 사용하나요?
     - `compactMap`은 어떤 역할을 하나요?
 
-14. **Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?**
+14. [**Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?**]()
     - 브랜치를 병합(Merge)하는 방법에는 어떤 것들이 있나요?
     - 브랜치 전략(예: Git Flow, GitHub Flow)에 대해 설명해주세요.
     - 충돌(Conflict)이 발생했을 때 해결 방법은 무엇인가요?
 
-15. **Swift의 에러 처리 방법에 대해 설명해주세요.**
+15. [**Swift의 에러 처리 방법에 대해 설명해주세요.**]()
     - `throws`, `try`, `catch` 키워드의 사용 방법은 무엇인가요?
     - 옵셔널을 사용한 에러 처리와 `do-catch`를 사용하는 에러 처리의 차이는 무엇인가요?
     - 에러를 전파하는 방법은 무엇인가요?
 
-16. **메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?**
+16. [**메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?**]()
     - 순환 참조(Retain Cycle)가 발생하는 경우와 해결 방법은 무엇인가요?
     - 클로저에서 `[weak self]`와 `[unowned self]`의 차이는 무엇인가요?
 
