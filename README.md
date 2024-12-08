@@ -154,69 +154,69 @@
     - `filter`, `reduce` 함수는 어떤 경우에 사용하나요?
     - `compactMap`은 어떤 역할을 하나요?
 
-14. [**Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?**]()
+14. [**Git에서 브랜치(Branch)를 사용하는 이유와 장점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/28)
     - 브랜치를 병합(Merge)하는 방법에는 어떤 것들이 있나요?
     - 브랜치 전략(예: Git Flow, GitHub Flow)에 대해 설명해주세요.
     - 충돌(Conflict)이 발생했을 때 해결 방법은 무엇인가요?
 
-15. [**Swift의 에러 처리 방법에 대해 설명해주세요.**]()
+15. [**Swift의 에러 처리 방법에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/29)
     - `throws`, `try`, `catch` 키워드의 사용 방법은 무엇인가요?
     - 옵셔널을 사용한 에러 처리와 `do-catch`를 사용하는 에러 처리의 차이는 무엇인가요?
     - 에러를 전파하는 방법은 무엇인가요?
 
-16. [**메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?**]()
+16. [**메모리 관리에서 강한 참조(Strong Reference)와 약한 참조(Weak Reference)의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/30)
     - 순환 참조(Retain Cycle)가 발생하는 경우와 해결 방법은 무엇인가요?
     - 클로저에서 `[weak self]`와 `[unowned self]`의 차이는 무엇인가요?
 
-17. **iOS 앱에서 Multi-threading을 구현하는 방법은 무엇인가요?**
+17. [**iOS 앱에서 Multi-threading을 구현하는 방법은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/31)
     - `DispatchQueue`와 `OperationQueue`의 차이점은 무엇인가요?
     - 동시성 프로그래밍에서 Race Condition을 방지하는 방법은 무엇인가요?
     - 메인 스레드에서 UI 업데이트를 해야 하는 이유는 무엇인가요?
 
-18. **UIKit에서 TableView와 CollectionView의 차이점은 무엇인가요?**
+18. [**UIKit에서 TableView와 CollectionView의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/32)
     - 셀(Cell)의 재사용(Reusability)은 어떻게 구현되나요?
     - 동적인 셀 높이(Dynamic Cell Height)를 설정하는 방법은 무엇인가요?
     - CollectionView의 레이아웃을 커스터마이징하는 방법은 무엇인가요?
 
-19. **ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?**
+19. [**ARC(Automatic Reference Counting)의 동작 원리는 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/33)
     - Retain Cycle이 발생하지 않도록 방지하는 방법은 무엇인가요?
     - `deinit` 메서드는 언제 호출되며, 어떤 역할을 하나요?
 
-20. **상속(Inheritance)과 프로토콜(Protocol)의 차이점은 무엇인가요?**
+20. [**상속(Inheritance)과 프로토콜(Protocol)의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/34)
     - 클래스 상속을 사용할 때의 장단점은 무엇인가요?
     - 다중 상속(Multiple Inheritance)이 불가능한 이유는 무엇인가요?
     - 프로토콜 준수(Conformance)를 통해 다형성을 구현하는 방법은 무엇인가요?
 
-21. **사용자 인터페이스(UI) 테스트와 단위(Unit) 테스트의 차이점은 무엇인가요?**
+21. [**사용자 인터페이스(UI) 테스트와 단위(Unit) 테스트의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/35)
     - XCTest 프레임워크를 사용하여 테스트를 작성하는 방법은 무엇인가요?
     - 테스트 주도 개발(TDD)의 장점은 무엇인가요?
     - 의존성 주입(Dependency Injection)을 활용하여 테스트 가능한 코드를 작성하는 방법은 무엇인가요?
 
-22. **Xcode에서 Instruments를 사용하여 앱의 성능을 분석하는 방법은 무엇인가요?**
+22. [**Xcode에서 Instruments를 사용하여 앱의 성능을 분석하는 방법은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/36)
     - Time Profiler를 사용하여 성능 이슈를 찾는 방법을 설명해주세요.
     - Allocations Instrument를 사용하여 메모리 누수를 탐지하는 방법은 무엇인가요?
     - Leaks Instrument를 사용하여 메모리 누수를 찾는 방법은 무엇인가요?
 
-23. **Swift의 제네릭(Generic)에 대해 설명해주세요.**
+23. [**Swift의 제네릭(Generic)에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/37)
     - 제네릭을 사용하는 이유는 무엇인가요?
     - 제네릭 타입 파라미터와 제약 조건을 설정하는 방법은 무엇인가요?
     - 제네릭을 사용할 때의 장점과 주의할 점은 무엇인가요?
 
-24. **Swift의 클로저와 함수의 차이점은 무엇인가요?**
+24. [**Swift의 클로저와 함수의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/38)
     - 클로저가 일급 객체(First-Class Citizen)인 이유는 무엇인가요?
     - 함수형 프로그래밍 패러다임에서 클로저가 어떻게 활용되나요?
 
-25. **동시성 프로그래밍에서 동기(Synchronous)와 비동기(Asynchronous)의 차이점은 무엇인가요?**
+25. [**동시성 프로그래밍에서 동기(Synchronous)와 비동기(Asynchronous)의 차이점은 무엇인가요?**](https://github.com/ujhong7/iOSDevStudy/issues/39)
     - iOS에서 비동기 작업을 처리하는 방법은 무엇인가요?
     - 세마포어(Semaphore)와 뮤텍스(Mutex)의 차이점은 무엇인가요?
 
-26. **GCD(Grand Central Dispatch)의 주요 개념과 사용 방법을 설명해주세요.**
+26. [**GCD(Grand Central Dispatch)의 주요 개념과 사용 방법을 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/40)
     - 직렬(Serial) 큐와 동시(Concurrent) 큐의 차이는 무엇인가요?
     - 글로벌 큐(Global Queue)와 메인 큐(Main Queue)는 어떻게 다르나요?
     - DispatchWorkItem을 사용하는 방법은 무엇인가요?
 
 
-
+---
 
 
 
