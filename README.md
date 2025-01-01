@@ -324,7 +324,7 @@
 
 ## 레벨 2
 
-1. Swift의 동시성(Concurrency) 프로그래밍에 대해 설명해주세요.
+1. [**Swift의 동시성(Concurrency) 프로그래밍에 대해 설명해주세요.**](https://github.com/ujhong7/iOSDevStudy/issues/69)
    - Grand Central Dispatch(GCD)의 주요 개념과 사용 방법을 설명해주세요.
    - OperationQueue와 DispatchQueue의 차이점은 무엇인가요?
    - 동시성 프로그래밍에서 발생할 수 있는 문제(Race Condition, Deadlock 등)와 해결 방법은 무엇인가요?
